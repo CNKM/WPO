@@ -7,6 +7,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="WPO" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="org.codehaus.jackson:jackson-mapper-asl:1.9.11" />
+        </element>
       </element>
     </root>
   </artifact>
