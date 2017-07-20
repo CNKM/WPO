@@ -9,8 +9,11 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="org.codehaus.jackson:jackson-mapper-asl:1.9.11" />
+          <element id="library" level="project" name="Hibernate 5.2.10-5.2.10" />
+          <element id="library" level="project" name="mysql:mysql-connector-java:6.0.6" />
         </element>
       </element>
+      <element id="file-copy" path="$PROJECT_DIR$/src/WebConfig.properties" />
     </root>
   </artifact>
 </component>
